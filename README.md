@@ -1,7 +1,7 @@
 # Image-classifiction-tool-by-CNN
 An easy-to-use tool for real time image classification
 
-Information: 1- This program run on window and linux, but you have to manualy install all the requirement python package.
+Information: 1- This program run on window and linux, but you have to manualy install all the requirement python package.\n
              2- This program is just basic function and you are free to add or remove any code.
 
 The example of directory of this tool is
